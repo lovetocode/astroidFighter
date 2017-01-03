@@ -26,6 +26,14 @@ def skill(s):
 		missle = 5
 		print("hello")
 	else: print("Why are you here")
-intro()
+
+# None -> String
+# expains to the player the objective to the game
+# def explain()
+# test
+# template
+def explain():
+	print("its now your mission to save the world from being destroyed by")
+	print(" an astroid.")
 
 
